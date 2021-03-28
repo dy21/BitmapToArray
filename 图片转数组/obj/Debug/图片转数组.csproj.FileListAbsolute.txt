@@ -1,0 +1,10 @@
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.csprojAssemblyReference.cache
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.Form1.resources
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.Properties.Resources.resources
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.csproj.GenerateResource.cache
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.csproj.CoreCompileInputs.cache
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\bin\Debug\图片转数组.exe.config
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\bin\Debug\图片转数组.exe
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\bin\Debug\图片转数组.pdb
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.exe
+C:\Users\dy21t\Documents\Visual Studio 2019\Project\图片转数组\图片转数组\obj\Debug\图片转数组.pdb
